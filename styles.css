@@ -1,0 +1,59 @@
+body {
+    padding: inherit;
+    background-color: lightgray;
+}
+
+.title {
+    color: darkcyan;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font: bold;
+}
+
+.sub-title {
+    color: darkcyan;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font: bold;
+}
+
+.row {
+    background-color: white;
+}
+
+.box {
+    background-color: white;
+    padding: 30px;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.navbar-brand {
+    background-color: rgb(13, 230, 219);
+    padding: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    font: bold;
+    color: white;
+}
+
+.container {
+    margin-top: 40px;
+    margin-bottom: 40px; 
+    background-color: white;
+}
+
+.footer {
+    width: 100%;
+    background-color: grey;
+    color: white;
+    border-top-style: solid;
+    border-top-color: skyblue;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding-top: 10px; 
+    height: 45px; 
+
+}
